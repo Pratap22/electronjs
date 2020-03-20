@@ -1,0 +1,12 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^8.1.1"
+  }
+}
